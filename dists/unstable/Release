@@ -1,0 +1,40 @@
+Architectures: arm64 armhf
+Codename: unstable
+Components: main
+Date: Tue, 17 Mar 2026 13:47:56 +0000
+Description: Linuxnorth Debian Package Repository
+Label: linuxnorth
+Origin: linuxnorth
+Suite: unstable
+MD5Sum:
+ afd7c25c903822fbe0d807a613e197c6              204 Release
+ b727a143b705f56af0148ec952f611e8             1737 main/binary-arm64/Packages
+ 8df0f0f41a49f303cc6d9b8ed5734acb              910 main/binary-arm64/Packages.gz
+ eef2b34004268d106a1bf58aa52791a5              988 main/binary-arm64/Packages.xz
+ b727a143b705f56af0148ec952f611e8             1737 main/binary-armhf/Packages
+ 8df0f0f41a49f303cc6d9b8ed5734acb              910 main/binary-armhf/Packages.gz
+ eef2b34004268d106a1bf58aa52791a5              988 main/binary-armhf/Packages.xz
+SHA1:
+ 03f0610ed9737918a6abe31ffb39b45d704afa5d              204 Release
+ d4f5add3219d84314df814b01093d583abbae1e3             1737 main/binary-arm64/Packages
+ 3694b4ec10965cdfc4e08dfc241f8ececdce40e5              910 main/binary-arm64/Packages.gz
+ 09b0291556552a18003e9acac146e748e5d7d5a7              988 main/binary-arm64/Packages.xz
+ d4f5add3219d84314df814b01093d583abbae1e3             1737 main/binary-armhf/Packages
+ 3694b4ec10965cdfc4e08dfc241f8ececdce40e5              910 main/binary-armhf/Packages.gz
+ 09b0291556552a18003e9acac146e748e5d7d5a7              988 main/binary-armhf/Packages.xz
+SHA256:
+ 6d704204efd575a19ba3cf0fe9aca62362ccff89e44f44acc99d00bd04b7c1ee              204 Release
+ f436a0c28c9bf4631e73f2f2715e84f8b80519ab21e84f41f219615b1b2fe9fb             1737 main/binary-arm64/Packages
+ 935fdb52aa96841d102d33dc2f665f412d8c8c0ed46cf89e6ec1c514bb49dc56              910 main/binary-arm64/Packages.gz
+ 53e82e13ee191a4a3620fb11a265ba9f172a5dc89feee14d872b98cf80a17517              988 main/binary-arm64/Packages.xz
+ f436a0c28c9bf4631e73f2f2715e84f8b80519ab21e84f41f219615b1b2fe9fb             1737 main/binary-armhf/Packages
+ 935fdb52aa96841d102d33dc2f665f412d8c8c0ed46cf89e6ec1c514bb49dc56              910 main/binary-armhf/Packages.gz
+ 53e82e13ee191a4a3620fb11a265ba9f172a5dc89feee14d872b98cf80a17517              988 main/binary-armhf/Packages.xz
+SHA512:
+ 74fb56807986c878a4b120a3842bf48afdeca34b8f7d15b9f4107ec9001ebce7f5a485ed0ff57d7ba36632837891208e86c64cd8172e18663c35ba2d4c21d88f              204 Release
+ 805d4a57e646749b9d55f0b5f299d18301184262c2b883ea073ea267f423eb4eedd9c5dd16af4ee9322e65930ecd3c595d968d2a0b0142d3a3c4366ab13efe72             1737 main/binary-arm64/Packages
+ ee44d2432cd46884b1d7007f2792bef6f94774bee2ae1ff519564573b49143087f2b53c02074c713aebd7268994e855be5c27071ded38a835adff977d1235f77              910 main/binary-arm64/Packages.gz
+ 120f28ef3ffc9601e6fd39d6974df6e3a41f43c5e25ad80c416312f3fd200d36b3d73241f7e0ddfdce181024db4f56e4aa4f4150437b55cc194f779f39f4a2f7              988 main/binary-arm64/Packages.xz
+ 805d4a57e646749b9d55f0b5f299d18301184262c2b883ea073ea267f423eb4eedd9c5dd16af4ee9322e65930ecd3c595d968d2a0b0142d3a3c4366ab13efe72             1737 main/binary-armhf/Packages
+ ee44d2432cd46884b1d7007f2792bef6f94774bee2ae1ff519564573b49143087f2b53c02074c713aebd7268994e855be5c27071ded38a835adff977d1235f77              910 main/binary-armhf/Packages.gz
+ 120f28ef3ffc9601e6fd39d6974df6e3a41f43c5e25ad80c416312f3fd200d36b3d73241f7e0ddfdce181024db4f56e4aa4f4150437b55cc194f779f39f4a2f7              988 main/binary-armhf/Packages.xz
