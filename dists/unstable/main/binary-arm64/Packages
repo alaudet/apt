@@ -19,6 +19,27 @@ Description: HC-SR04 ultrasonic sensor driver for Raspberry Pi
  and imperial measurements, depth and volume calculations, and is compatible
  with Raspberry Pi 5 and all models supported by lgpio.
 
+Package: python3-pinsource
+Source: pinsource
+Version: 0.0.4~rc1
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 37
+Depends: python3:any, python3-lgpio
+Filename: pool/p/python3-pinsource/python3-pinsource_0.0.4~rc1_all.deb
+Size: 7358
+MD5sum: bfef4e7dd7046396dd6dac197e7ba13f
+SHA1: 0efe8d6a6e4efc682b5f9188c0b2fb03f7d7254d
+SHA256: 27fec22dde435266c6303e00f2d77109093e4aed9309302e2893c9122d92f614
+Section: python
+Priority: optional
+Homepage: https://github.com/alaudet/pinsource
+Description: HC-SR04 ultrasonic sensor driver for Raspberry Pi
+ pinsource provides a Python interface for HC-SR04 ultrasonic distance
+ sensors on Raspberry Pi, using lgpio for GPIO access. It supports metric
+ and imperial measurements, depth and volume calculations, and is compatible
+ with Raspberry Pi 5 and all models supported by lgpio.
+
 Package: raspisump
 Version: 2.0~a65
 Architecture: all
