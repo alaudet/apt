@@ -1,0 +1,168 @@
+Package: python3-pinsource
+Source: pinsource
+Version: 0.0.4~a1
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 39
+Depends: python3:any, python3-lgpio
+Filename: pool/p/python3-pinsource/python3-pinsource_0.0.4~a1_all.deb
+Size: 7544
+MD5sum: b17bea15d2bf1341507989fdb9a04ce9
+SHA1: d49a3378a852759b6ab9855d08746e106940e68a
+SHA256: 0a573ed69e5b109d5083952a390179b1ae19f9c61c5709d4e79fe3d5dadc893c
+Section: python
+Priority: optional
+Homepage: https://github.com/alaudet/pinsource
+Description: HC-SR04 ultrasonic sensor driver for Raspberry Pi
+ pinsource provides a Python interface for HC-SR04 ultrasonic distance
+ sensors on Raspberry Pi, using lgpio for GPIO access. It supports metric
+ and imperial measurements, depth and volume calculations, and is compatible
+ with Raspberry Pi 5 and all models supported by lgpio.
+
+Package: python3-pinsource
+Source: pinsource
+Version: 0.0.4~rc1
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 37
+Depends: python3:any, python3-lgpio
+Filename: pool/p/python3-pinsource/python3-pinsource_0.0.4~rc1_all.deb
+Size: 7358
+MD5sum: bfef4e7dd7046396dd6dac197e7ba13f
+SHA1: 0efe8d6a6e4efc682b5f9188c0b2fb03f7d7254d
+SHA256: 27fec22dde435266c6303e00f2d77109093e4aed9309302e2893c9122d92f614
+Section: python
+Priority: optional
+Homepage: https://github.com/alaudet/pinsource
+Description: HC-SR04 ultrasonic sensor driver for Raspberry Pi
+ pinsource provides a Python interface for HC-SR04 ultrasonic distance
+ sensors on Raspberry Pi, using lgpio for GPIO access. It supports metric
+ and imperial measurements, depth and volume calculations, and is compatible
+ with Raspberry Pi 5 and all models supported by lgpio.
+
+Package: python3-pinsource
+Source: pinsource
+Version: 1.0
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 37
+Depends: python3:any, python3-lgpio
+Filename: pool/p/python3-pinsource/python3-pinsource_1.0_all.deb
+Size: 7380
+MD5sum: f36d2311f0660a099845ded7a5f0c200
+SHA1: 8bd3edf171ed52a7091f97983d61ea39b11230c1
+SHA256: daa24df84a01030aed76c1824ab4092a115bec81a647bd4122209da11cde36b7
+Section: python
+Priority: optional
+Homepage: https://github.com/alaudet/pinsource
+Description: HC-SR04 ultrasonic sensor driver for Raspberry Pi
+ pinsource provides a Python interface for HC-SR04 ultrasonic distance
+ sensors on Raspberry Pi, using lgpio for GPIO access. It supports metric
+ and imperial measurements, depth and volume calculations, and is compatible
+ with Raspberry Pi 5 and all models supported by lgpio.
+
+Package: raspisump
+Version: 2.0~a65
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 453
+Depends: python3:any, python3-pinsource, python3-mastodon, python3-flask, python3-waitress, python3-argon2, adduser, nginx, openssl
+Recommends: sqlite3
+Filename: pool/r/raspisump/raspisump_2.0~a65_all.deb
+Size: 125220
+MD5sum: 24fd8aad47373c748bd566dac54674ce
+SHA1: f29c51ad10ea130535353c2875fda98ac55c1fcd
+SHA256: 4ccc068f2dfd472cbe1a0d989e18ca295d8cc714c5ee3f61958f7b9e515b5798
+Section: misc
+Priority: optional
+Homepage: https://www.linuxnorth.org/raspi-sump/
+Description: Sump pit monitoring system for Raspberry Pi
+ Raspi-Sump monitors a sump pit water level using an HC-SR04 ultrasonic
+ distance sensor connected to a Raspberry Pi. It logs water levels,
+ generates charts, and sends alerts via email or Mastodon when the water
+ level reaches a critical threshold.
+
+Package: raspisump
+Version: 2.0~a68
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 459
+Depends: python3:any, python3-pinsource, python3-mastodon, python3-flask, python3-waitress, python3-argon2, adduser, nginx, openssl
+Recommends: sqlite3
+Filename: pool/r/raspisump/raspisump_2.0~a68_all.deb
+Size: 126382
+MD5sum: 1d0ab4ca7120e2175718f6648d87efaf
+SHA1: 0af594b5c1af76cc2a7492f85fdf3257f3763e77
+SHA256: da99bfd625a4f717c634387d9105ade07c47740ea80d4a493c73b51e6ab5e2f3
+Section: misc
+Priority: optional
+Homepage: https://www.linuxnorth.org/raspi-sump/
+Description: Sump pit monitoring system for Raspberry Pi
+ Raspi-Sump monitors a sump pit water level using an HC-SR04 ultrasonic
+ distance sensor connected to a Raspberry Pi. It logs water levels,
+ generates charts, and sends alerts via email or Mastodon when the water
+ level reaches a critical threshold.
+
+Package: raspisump
+Version: 2.0~a69
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 461
+Depends: python3:any, python3-pinsource, python3-mastodon, python3-flask, python3-waitress, python3-argon2, adduser, nginx, openssl
+Recommends: sqlite3
+Filename: pool/r/raspisump/raspisump_2.0~a69_all.deb
+Size: 126938
+MD5sum: 73f3069dc57bbb468b8698466a411a24
+SHA1: 760d78d9f964cdb0beebedb2189da5cd0ae38835
+SHA256: 401baefbf518de7325165eecde516ea856783fd95b8898f5f4a3acf7f15f6223
+Section: misc
+Priority: optional
+Homepage: https://www.linuxnorth.org/raspi-sump/
+Description: Sump pit monitoring system for Raspberry Pi
+ Raspi-Sump monitors a sump pit water level using an HC-SR04 ultrasonic
+ distance sensor connected to a Raspberry Pi. It logs water levels,
+ generates charts, and sends alerts via email or Mastodon when the water
+ level reaches a critical threshold.
+
+Package: raspisump
+Version: 2.0~rc1
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 461
+Depends: python3:any, python3-pinsource, python3-mastodon, python3-flask, python3-waitress, python3-argon2, adduser, nginx, openssl
+Recommends: sqlite3
+Filename: pool/r/raspisump/raspisump_2.0~rc1_all.deb
+Size: 127216
+MD5sum: 59015c4a9afca369833251abf41ca14e
+SHA1: 53a6fc589aebb33fb2359f8f22a54c2411522b8b
+SHA256: 48a97b72bef33b44e0266775019b22c4b03652a2cc3691007d3643a4a960ba4b
+Section: misc
+Priority: optional
+Homepage: https://www.linuxnorth.org/raspi-sump/
+Description: Sump pit monitoring system for Raspberry Pi
+ Raspi-Sump monitors a sump pit water level using an HC-SR04 ultrasonic
+ distance sensor connected to a Raspberry Pi. It logs water levels,
+ generates charts, and sends alerts via email or Mastodon when the water
+ level reaches a critical threshold.
+
+Package: raspisump
+Version: 2.0~rc2
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 461
+Depends: python3:any, python3-pinsource, python3-mastodon, python3-flask, python3-waitress, python3-argon2, adduser, nginx, openssl
+Recommends: sqlite3
+Filename: pool/r/raspisump/raspisump_2.0~rc2_all.deb
+Size: 127444
+MD5sum: f6bd525de48efee7e2892d77d805ff85
+SHA1: e6c512e36a9fe38d99817e3816d0ca6469cd1610
+SHA256: 98e904501aa1f4acf05fa9e4ed9a6b4144961edb464a150d6e6efed37c66eaa8
+Section: misc
+Priority: optional
+Homepage: https://www.linuxnorth.org/raspi-sump/
+Description: Sump pit monitoring system for Raspberry Pi
+ Raspi-Sump monitors a sump pit water level using an HC-SR04 ultrasonic
+ distance sensor connected to a Raspberry Pi. It logs water levels,
+ generates charts, and sends alerts via email or Mastodon when the water
+ level reaches a critical threshold.
+

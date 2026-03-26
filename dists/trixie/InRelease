@@ -1,0 +1,59 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: arm64 armhf
+Codename: trixie
+Components: main
+Date: Thu, 26 Mar 2026 15:10:06 +0000
+Description: Linuxnorth Debian Package Repository
+Label: linuxnorth
+Origin: linuxnorth
+Suite: trixie
+MD5Sum:
+ 05da442771140cc130d2d0e23c6a5a73              200 Release
+ caaa4d22285a8e33063fec58e36c30fb             6981 main/binary-arm64/Packages
+ ebf8800682dd1db4e65ce5ed5f8e1289             1585 main/binary-arm64/Packages.gz
+ c50ea554082e9f43896d1ad5de95e00d             1576 main/binary-arm64/Packages.xz
+ caaa4d22285a8e33063fec58e36c30fb             6981 main/binary-armhf/Packages
+ ebf8800682dd1db4e65ce5ed5f8e1289             1585 main/binary-armhf/Packages.gz
+ c50ea554082e9f43896d1ad5de95e00d             1576 main/binary-armhf/Packages.xz
+SHA1:
+ 6d9129df0765cb8eae29823d9ad490ed45be2a07              200 Release
+ 2157bfcc98acb0c4309c86b11540e401360c0392             6981 main/binary-arm64/Packages
+ 1259f4bebe8b868e169e9a5dc478221628ef936e             1585 main/binary-arm64/Packages.gz
+ 2b6c40b8997f565bdad5a22f0537b4d0371da8ee             1576 main/binary-arm64/Packages.xz
+ 2157bfcc98acb0c4309c86b11540e401360c0392             6981 main/binary-armhf/Packages
+ 1259f4bebe8b868e169e9a5dc478221628ef936e             1585 main/binary-armhf/Packages.gz
+ 2b6c40b8997f565bdad5a22f0537b4d0371da8ee             1576 main/binary-armhf/Packages.xz
+SHA256:
+ de2be0163d2afb8b26ccfbeadce8586067675f167191599c90eec6a85fefb4f5              200 Release
+ 5f69bfbe82f8b80992e876c7f7af74e3314c1c553d47eb048faff1e38c09d3f6             6981 main/binary-arm64/Packages
+ fc8cd0331f594718b7636d7ce3d068036a398944e769e0870698a19fd6ada5bc             1585 main/binary-arm64/Packages.gz
+ 2947aac21222127c2c9422d345a5830e9788b77328993ec7a5e4ffe8f46e8d2a             1576 main/binary-arm64/Packages.xz
+ 5f69bfbe82f8b80992e876c7f7af74e3314c1c553d47eb048faff1e38c09d3f6             6981 main/binary-armhf/Packages
+ fc8cd0331f594718b7636d7ce3d068036a398944e769e0870698a19fd6ada5bc             1585 main/binary-armhf/Packages.gz
+ 2947aac21222127c2c9422d345a5830e9788b77328993ec7a5e4ffe8f46e8d2a             1576 main/binary-armhf/Packages.xz
+SHA512:
+ 0b00c2d6e865a474689a85bb8fa1b508b1dd934ab7a07b554290e7d36d0c566a805bd5082198bbfc1d3823f77cc70bc57d04a48a1b4c2f07cff9704c9f34afaa              200 Release
+ d9cbd148a03f91581163a0ebfcc1bdec6d806bf69cfd0a5246ca5cdc5512f239f942393499117051d9630da78c6dfce17739d4c58f05db09823f25872ab2e981             6981 main/binary-arm64/Packages
+ 76c0df3f603118978acb0369e79b6a96ef6e7f71dce6529e4f2283598058f17467d37b7d0cdee8b8a0e4ebb15474e978571a475981dd98bf0872218d7b23456f             1585 main/binary-arm64/Packages.gz
+ de4723c3cfc9dcfdc85af29242629a6d6c9a3dccaf14df16ab2f27954c6bd2a9d90be303dc9c4c776db8ed93395edf8051e220f2bc999a21e7e38457f655985c             1576 main/binary-arm64/Packages.xz
+ d9cbd148a03f91581163a0ebfcc1bdec6d806bf69cfd0a5246ca5cdc5512f239f942393499117051d9630da78c6dfce17739d4c58f05db09823f25872ab2e981             6981 main/binary-armhf/Packages
+ 76c0df3f603118978acb0369e79b6a96ef6e7f71dce6529e4f2283598058f17467d37b7d0cdee8b8a0e4ebb15474e978571a475981dd98bf0872218d7b23456f             1585 main/binary-armhf/Packages.gz
+ de4723c3cfc9dcfdc85af29242629a6d6c9a3dccaf14df16ab2f27954c6bd2a9d90be303dc9c4c776db8ed93395edf8051e220f2bc999a21e7e38457f655985c             1576 main/binary-armhf/Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEum391RLUT5vlhTZbXvcXTWYt+vgFAmnFTE4ACgkQXvcXTWYt
++vg8PhAAoG0TMBOtRGJeqtmhoIsG7TXE/fw/+4Qq//TSMA2a8cM9ARGI3lfV4Rpk
+OI/WMadnbp1Iyp2RIp5QaHPsAgqSoNhaPOSgI0xoag+es2oOIL9JsyWeOtDHFyJQ
+krqZTgNR2LspBG0TRKFGdTTBa6Hcjx26JnT3zitDRo873IgmvrlSQvYm1vPyy8Sa
+PussykJBE5tEgCSd+JmYmwovC9Kj+iU9iOZ4MsKiB+5lme6ELWJ3WDFF4Vqm3WLE
+71B/32C3GHhl6yzyb5Pkhg27SnV2xDhTUp91PQetmQBYCYQV11S9BL5bSh0TiujF
+mBlT1rnicn8U0iUsOf945yrug0zNdaKFprdWZlZOwEXEIsx223DpZ7Vy/0SSVFPu
+NzksZBfe51XMNILNKzPUIUTHQrZO2IyxiPDJlXgXGXdDtvXN7cWT+CMQEGFnxTzW
+wu2bmKmVI3DSXESj8kRG4sQYMslgxrallefJOz8QgoREa4yVN7XM/4NN0Pa+HQrb
+++UewVTCBXDXzmBA40cf2UU+yBw8mYGXQoaN+0w/LRL6YaQgwH+vqZVlX+3/lLmk
+3CNULGSWjlCpD9MVVkasPjhoeIH0Rok00v0eMwqWWUyZl4edgTmbZSnGn+B6whjg
+F6MyyvbBvL+aU6yImnSoYK3yOdgU5jEkT6JujF2Fcjdeh46JEWw=
+=uATA
+-----END PGP SIGNATURE-----
