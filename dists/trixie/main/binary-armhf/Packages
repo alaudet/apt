@@ -62,6 +62,27 @@ Description: HC-SR04 ultrasonic sensor driver for Raspberry Pi
  with Raspberry Pi 5 and all models supported by lgpio.
 
 Package: raspisump
+Version: 2.0
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 460
+Depends: python3:any, python3-pinsource, python3-mastodon, python3-flask, python3-waitress, python3-argon2, adduser, nginx, openssl
+Recommends: sqlite3
+Filename: pool/r/raspisump/raspisump_2.0_all.deb
+Size: 127320
+MD5sum: 393b0cae16f8850d736060ad0ae376cd
+SHA1: 6e4b8b9a85f2e327d27fe4441106f9682bf1faae
+SHA256: c8b7e5b4aa4855e9b6f4092adf7f93674ef8a14ef1ce08377bd1d520ae35a1a3
+Section: misc
+Priority: optional
+Homepage: https://www.linuxnorth.org/raspi-sump/
+Description: Sump pit monitoring system for Raspberry Pi
+ Raspi-Sump monitors a sump pit water level using an HC-SR04 ultrasonic
+ distance sensor connected to a Raspberry Pi. It logs water levels,
+ generates charts, and sends alerts via email or Mastodon when the water
+ level reaches a critical threshold.
+
+Package: raspisump
 Version: 2.0~a65
 Architecture: all
 Maintainer: Al Audet <alaudet@linuxnorth.org>
