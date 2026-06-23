@@ -146,6 +146,27 @@ Description: Sump pit monitoring system for Raspberry Pi
  level reaches a critical threshold.
 
 Package: raspisump
+Version: 2.0.4
+Architecture: all
+Maintainer: Al Audet <alaudet@linuxnorth.org>
+Installed-Size: 472
+Depends: python3:any, python3-pinsource, python3-mastodon, python3-flask, python3-waitress, python3-argon2, adduser, nginx, openssl
+Recommends: sqlite3
+Filename: pool/r/raspisump/raspisump_2.0.4_all.deb
+Size: 130252
+MD5sum: 118edecc22bad46e23a0e53b3374a138
+SHA1: ccf32c3aa3147a034ec77fd41d64a371af88747c
+SHA256: cedab1de8de71fbdb3a29462ecad33fbee7af397e1bdd1b17525e11095362b3d
+Section: misc
+Priority: optional
+Homepage: https://www.linuxnorth.org/raspi-sump/
+Description: Sump pit monitoring system for Raspberry Pi
+ Raspi-Sump monitors a sump pit water level using an HC-SR04 ultrasonic
+ distance sensor connected to a Raspberry Pi. It logs water levels,
+ generates charts, and sends alerts via email or Mastodon when the water
+ level reaches a critical threshold.
+
+Package: raspisump
 Version: 2.0~a65
 Architecture: all
 Maintainer: Al Audet <alaudet@linuxnorth.org>
